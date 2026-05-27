@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/poster tracezero.png" alt="TraceZero Project Poster" width="100%">
+</p>
+
+---
 # 🛡️ TraceZero: Autonomous AI Agent for Digital Privacy Enforcement
 
 **TraceZero** is a full-stack, autonomous privacy-enforcement agent designed to counteract the unauthorized scraping, aggregation, and monetization of Personally Identifiable Information (PII) by online data brokers. Operating completely on the live web (without simulated data chains), TraceZero scans public directories, utilizes a multi-layered NLP transformer pipeline to isolate exposed credentials, scores matching confidences to eliminate false positives, and programmatically executes automated legal opt-out flows.
