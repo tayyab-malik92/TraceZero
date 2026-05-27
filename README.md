@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/poster tracezero.png" alt="TraceZero Project Poster" width="100%">
+  <img src="assets/poster%20tracezero.png.png" alt="TraceZero Project Poster" width="100%">
 </p>
 
 ---
